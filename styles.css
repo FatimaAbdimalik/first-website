@@ -1,0 +1,97 @@
+body {
+    background-color: white; 
+
+}
+a.nav-link {
+    
+        padding:20px;
+        font-size:25px;
+        background-color:rgb(158, 102, 19);
+        color:white;
+        font-weight: bold;
+        font-family: sans-serif;
+        text-decoration: none;
+        display:inline-block;
+
+}
+
+h1 {
+    font-family: Lobster;
+    font-size: 50px;
+    border: 3px dotted #20bcd5;
+    text-align: center;
+}
+
+h2  {
+   font-family: bold;
+   font-size: 35px;
+}
+
+h3 {
+  font-family: Tangerine;
+  font-size: 40px; 
+ 
+}
+
+.main-list li {
+    font-family: Lilita one;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+}
+#Employment-histroy {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#Qualifications {
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#Hobby { 
+   font-family: Arial, Helvetica, sans-serif;
+ 
+
+}
+.Starter {
+    
+    font-size: 20px;
+    background-image: 
+        URL(https://previews.123rf.com/images/romastudio/romastudio1603/romastudio160300203/54088672-healthy-food-background-studio-photo-of-different-fruits-and-vegetables-on-white-wooden-table-high-r.jpg)
+ }
+ .Starter h2 {
+     font-family: Tangerine;
+     font-size: 45px;
+
+ }
+.Starter li{
+    font-family: Arial, Helvetica, sans-serif
+}
+.Main {
+  
+    font-size: 20px;
+    background-image: url(https://d39l2hkdp2esp1.cloudfront.net/img/photo/140991/140991_00_2x.jpg?20180302040152)
+}
+.Main h2 {
+    font-family: Tangerine;
+    font-size: 45px;
+}
+.Main li{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Dessert {
+    font-weight: bold;
+    background-image: url(https://www.foodwise.com.au/wp-content/uploads/2012/08/Background_ChoppingBoard21.jpg)
+}
+img {
+    width: 250px;
+    height: 150px;
+}
+
+table, th, td {
+    border: 2px solid black;
+    font-family: sans-serif;
+    text-align: center;
+}
